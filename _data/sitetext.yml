@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Crossroads
+    text: TODO
     button: Tell Me More
     buttonlink: "#services"
 
@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "TODO"
         desc: need text from costomer
-        icon: assets/img/devReplacement.tif #find more at https://fontawesome.com/icons
+        icon: assets/img/devReplacement.jpg #find more at https://fontawesome.com/icons
 
   portfolio:
     title: "Portfolio"
@@ -41,12 +41,12 @@ en: &DEFAULT_EN
       - title: "TODO"
         year: "2022"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/devReplacementSmall.tif
+        image: assets/img/devReplacementSmall.jpg
         alt: "No Image Provided"
       - title: "Future refrence"
         year: ""
         desc: ""
-        image: assets/img/devReplacementSmall.tif
+        image: assets/img/devReplacementSmall.jpg
         alt: "No Image provided"
         # you can enforce the alignment
         align: right
@@ -65,17 +65,17 @@ en: &DEFAULT_EN
     title: Providers
     list:
       - title: "TODO"
-        logo: devReplacementSmall.tif
+        logo: devReplacementSmall.jpg
 
   team:
-    title: "Contact ME"
+    title: "Contact Me"
     text: "TODO"
     subtext: Get contact info and image
     section: team
     people:
       - name: "Lindsey Koppert"
         role: ""
-        image: assets/img/devReplacement.tif
+        image: assets/img/devReplacement.jpg
         social:
           - url: https://facebook.com
             icon: fab fa-facebook-f
