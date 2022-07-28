@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "TODO"
         desc: need text from costomer
-        icon:  #find more at https://fontawesome.com/icons
+        icon: assets/img/devReplacement.tif #find more at https://fontawesome.com/icons
 
   portfolio:
     title: "Portfolio"
