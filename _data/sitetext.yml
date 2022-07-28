@@ -73,8 +73,8 @@ en: &DEFAULT_EN
     subtext: Get contact info and image
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Lindsey Koppert"
+        role: ""
         image: assets/img/devReplacement.tif
         social:
           - url: https://facebook.com
