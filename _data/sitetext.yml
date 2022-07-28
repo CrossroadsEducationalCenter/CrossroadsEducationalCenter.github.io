@@ -40,7 +40,7 @@ en: &DEFAULT_EN
     events:
       - title: "TODO"
         year: "2022"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: ""
         image: assets/img/devReplacementSmall.jpg
         alt: "No Image Provided"
       - title: "Future refrence"
