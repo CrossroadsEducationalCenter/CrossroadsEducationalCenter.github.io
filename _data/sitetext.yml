@@ -65,7 +65,7 @@ en: &DEFAULT_EN
     title: Providers
     list:
       - title: "TODO"
-        logo: devReplacementSmall.jpg
+        logo: assets/img/devReplacementSmall.jpg
 
   team:
     title: "Contact Me"
@@ -80,7 +80,7 @@ en: &DEFAULT_EN
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://gmail.com
-            icon: fa-solid fa-envelope
+            icon: fab fa-envelope
       
 
   contact:
