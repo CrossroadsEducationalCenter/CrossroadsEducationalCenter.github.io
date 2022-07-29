@@ -99,6 +99,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
+    text: Jekyll theme provided by
     legal: "Privacy Policy"
     social:
       - url: https://facebook.com
